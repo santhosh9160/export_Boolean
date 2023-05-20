@@ -1,2 +1,2 @@
-let canDance = "true";
-module.export = canDance;
+const canDance = true;
+module.exports = canDance;
